@@ -113,7 +113,7 @@ p.uppercase {
     background-color: var(--dark-green);
 }
 
-@media (min-width: 1439px) {
+@media (min-width: 635px) {
 
     .product-img-1 {
         display: none;
