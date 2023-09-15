@@ -20,7 +20,8 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    min-height: 100vh;
+    padding: 10px;
     background-color: var(--cream);
     font: 500 0.875rem 'Montserrat', sans-serif;
     color: var(--grey-blue);
